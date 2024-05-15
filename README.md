@@ -4,7 +4,7 @@
 
 本项目是利用原生js实现的h5小游戏，在实现时使用了大量es6语法，对于es6语法不太熟悉的小伙伴可以先查阅相关资料了解一下
 
-**demo**：[线上地址](https://yangyunhe369.github.io/h5-game-blockBreaker/)
+**demo**：[线上地址](https://Caochenxin.github.io/BrickBreaker/)
 
 ## 项目截图
 
